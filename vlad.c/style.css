@@ -1,0 +1,26 @@
+#Shrek{
+    color: red;
+    text-align: center;
+}
+#doi{
+    color: cyan;
+    border: 34px yellow solid;
+}
+#trei{
+    height: 999px;
+    width: 999px;
+}
+#masina{
+    border: 1px solid black;
+    border-collapse: collapse;
+    height: 600px;
+    width: 600px;
+}
+th{
+    border: 1px solid black;
+    padding: 3px;
+}
+td{
+    border: 1px solid black;
+    padding: 3px;
+}
